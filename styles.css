@@ -30,7 +30,7 @@ body{
     justify-content: space-between;
  /*    border: 3px solid rgb(255, 0, 153); */
 
-    background-image: url(FOTOS/rocio+potencias.png);
+    background-image: url(rocio+potencias.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 70%;
@@ -67,7 +67,7 @@ body{
 
               }
                     .work :hover{
-                     background-image: url(logo/menu_work.neon.png);
+                     background-image: url(menu_work.neon.png);
                      background-repeat: no-repeat;
                      background-position: center;
                      background-size: 100%;
@@ -79,7 +79,7 @@ body{
                }
 
                .cv :hover{
-                  background-image: url(logo/menu_cv.neon.png);
+                  background-image: url(menu_cv.neon.png);
                   background-repeat: no-repeat;
                   background-position: center;
                   background-size: 100%;
@@ -93,7 +93,7 @@ body{
              }
 
              .press :hover{
-               background-image: url(logo/menu_press.neon.png);
+               background-image: url(menu_press.neon.png);
                background-repeat: no-repeat;
                background-position: center;
                background-size: 100%;
@@ -107,7 +107,7 @@ body{
 
              }
              .about :hover{
-               background-image: url(logo/menu_about.neon.png);
+               background-image: url(menu_about.neon.png);
                background-repeat: no-repeat;
                background-position: center;
                background-size: 100%;
@@ -120,7 +120,7 @@ body{
 
              }
              .more :hover{
-               background-image: url(logo/menu_more.neon.png);
+               background-image: url(menu_more.neon.png);
                background-repeat: no-repeat;
                background-position: center;
                background-size: 100%;
@@ -133,7 +133,7 @@ body{
 
              }
              .contact :hover{
-               background-image: url(logo/menu_contact.neon.png);
+               background-image: url(menu_contact.neon.png);
                background-repeat: no-repeat;
                background-position: center;
                background-size: 100%;
@@ -207,7 +207,7 @@ body{
          }
          .logo:hover{
  
-            background-image: url(logo/menu_suscribe.neon.png);
+            background-image: url(menu_suscribe.neon.png);
             background-repeat: no-repeat;
             background-position: center;
             background-size: 100%;
@@ -237,7 +237,7 @@ body{
           margin-top: 0.2%;
          } 
          .logo_ig :hover{
-            background-image: url(logo/logo_ig\ _iluminado.png);
+            background-image: url(logo_ig\ _iluminado.png);
             background-repeat: no-repeat;
             background-position: center;
             background-size: 100%;
